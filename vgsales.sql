@@ -3,7 +3,7 @@
 -- I use this dataset to learn finding some interesting fact about video game sales from 1980 to 2016 using SQL
 -- and visualize it using tableau, here is the link: https://public.tableau.com/app/profile/sandy.nugroho/viz/VideGameSalesReleasein1980-2016_16845544035670/Dashboard1?publish=yes
 
--- I didn't visualize all the query results, just some of those that I find interesting to show.
+-- I didn't visualize all the query results, just some of those that I find interesting to be shown.
 
 -- I didn't use all the data (1980-2020), just 1980-2016 because I think the record from 2017-2020 isn't completed yet.
 
